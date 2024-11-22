@@ -1,2 +1,2 @@
-# OPPDRAG_UTVIKLING_S-KEMOTOR
-her finner du all info du trengs for søkemotor oppdraget.
+# OPPDRAG_UTVIKLING_SEARCHENGINE
+her finner du all info du trengs for searchengine oppdraget.
