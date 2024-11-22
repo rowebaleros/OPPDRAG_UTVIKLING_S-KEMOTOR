@@ -34,7 +34,7 @@ def printOrd(file_content, ord):
 def main():
     textfile = input("What is your text file? ")  # ber brukieren om å oppgi tekstfil-navnet
     file_content = lesInnTekst(textfile)  # leser innholdet til filen
-    print(file_content)  # viser innholdet til filen
+   
 
     if "not found" in file_content:  # hvis filen ikke finnes så printer den ut en feilmelding
         print(file_content)
